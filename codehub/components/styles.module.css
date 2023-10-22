@@ -1,0 +1,21 @@
+.custom {
+    max-width: 36rem;
+    padding: 0 1rem;
+    margin: 3rem auto 6rem;
+    color: orange;
+  }
+  /* className="h-full px-3 py-4 overflow-y-auto bg-gray-50 dark:bg-gray-800" */
+  .bgcolor1{
+    background-color: #151834;
+    height: 100%;
+    overflow-y: auto;
+    padding-left: 0.5rem;
+  }
+
+  .codeHUBLOGO{
+    text-align: center;
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+  

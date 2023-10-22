@@ -1,7 +1,13 @@
-import React from 'react'
-
-export default function page() {
+import React from 'react';
+import Navbar from '../components/Navbar';
+import styles from "./globals.css"
+export default function Page() {
   return (
-    <div>first page</div>
-  )
+    <div  >
+    
+      <Navbar/>
+     
+    
+    </div>
+  );
 }
